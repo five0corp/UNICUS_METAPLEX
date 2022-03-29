@@ -23,7 +23,7 @@ https://www.notion.so/Metaplex-Developer-Guide-afefbc19841744c28587ab948a08cfac
 Clone the repo, and run `deploy-web.sh`.
 
 ```bash
-$ git clone https://github.com/metaplex-foundation/metaplex.git
+$ git clone https://github.com/five0corp/UNICUS_METAPLEX.git
 $ cd metaplex
 $ cd js
 $ yarn install
